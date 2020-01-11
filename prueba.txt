@@ -5,3 +5,5 @@ ahora estoy en la segunda linea de git
 ahora añadiremos más cosas para seguir probando git
 
 añadiendo más lineas de codigo para probarlo yeih! keyword escorpion
+
+palabra clave git merge
